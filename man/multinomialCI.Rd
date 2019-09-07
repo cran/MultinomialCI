@@ -2,7 +2,7 @@
 
 \name{multinomialCI}
 \alias{multinomialCI}
-\title{Simultaneous confidence intervals for multinomial proportions (Sison-Graz method)}
+\title{Simultaneous Confidence Intervals for Multinomial Proportions (Sison-Graz Method)}
 \description{
 Simultaneous confidence intervals for multinomial proportions, calculated according to the method of Sison and Graz
 }
@@ -34,9 +34,8 @@ for the probability of the i-th class, which corresponds to the i-th position of
 \references{
 Sison, C.P and J. Glaz. Simultaneous confidence intervals and sample size determination
 for multinomial proportions. Journal of the American Statistical Association, 90:366-369 (1995).
-\url{http://tx.liberal.ntu.edu.tw/~purplewoo/Literature/!Methodology/!Distribution_SampleSize/SimultConfidIntervJASA.pdf}
 
-Glaz, J. and C.P. Sison. Simultaneous confidence intervals for multinomial proportions. 
+Glaz, J. and Sison, C.P. Simultaneous confidence intervals for multinomial proportions. 
 Journal of Statistical Planning and Inference 82:251-262 (1999). 
 
 May, W.L. and W.D. Johnson. Constructing two-sided simultaneous confidence intervals for 
